@@ -1,14 +1,4 @@
---- STEAMODDED HEADER
---- MOD_NAME: RTGame BalaRTo Pack
---- MOD_ID: BalaRTo
---- MOD_AUTHOR: [Trainerchris]
---- MOD_DESCRIPTION: Adds cosmetic changes such as texture swaps to existing textures and new deck skins. New languages includes: Credits, Credits [W/Descs], Youtube, and [YOUTUBE].
---- DEPENDENCIES: [Steamodded>=1.0.0~ALPHA-0812d], [Malverk]
-
-----------------------------------------------
-------------MOD CODE--------------------------
-
---------------------Text Files--------------------
+-------------------- Text Files --------------------
 
 SMODS.Language{key = "credits", label = "Credits" }
 SMODS.Language{key = "credits-descs", label = "Credits [W/Descs]" }
@@ -16,23 +6,29 @@ SMODS.Language{key = "youtube", label = "Youtube" }
 SMODS.Language{key = "[YOUTUBE]", label = "[YOUTUBE]" }
 
 
---------------------Default Textures--------------------
+-------------------- Default Textures --------------------
 
 ---- Malverk ----
 -- Jokers
-AltTexture({ key = 'rt_joker', set = 'Joker', path = 'default/Jokers.png', loc_txt = { name = 'Jokers' }, original_sheet = true })
+AltTexture({ key = 'rt_joker', set = 'Joker', path = 'default/Jokers.png', loc_txt = { name = 'Jokers' },
+	original_sheet = true })
 
-AltTexture({ key = 'yt_joker', set = 'Joker', path = 'youtube/Jokers.png', loc_txt = { name = 'Jokers'}, original_sheet = true })
+AltTexture({ key = 'yt_joker', set = 'Joker', path = 'youtube/Jokers.png', loc_txt = { name = 'Jokers'}, 
+	original_sheet = true })
 
 -- Card Backs
-AltTexture({ key = 'rt_back', set = 'Back', path = 'default/Enhancers.png', loc_txt = { name = 'Backs' }, original_sheet = true })
+AltTexture({ key = 'rt_back', set = 'Back', path = 'default/Enhancers.png', loc_txt = { name = 'Backs' }, 
+	original_sheet = true })
 
-AltTexture({ key = 'yt_back', set = 'Back', path = 'youtube/Enhancers.png', loc_txt = { name = 'Backs' }, original_sheet = true })
+AltTexture({ key = 'yt_back', set = 'Back', path = 'youtube/Enhancers.png', loc_txt = { name = 'Backs' }, 
+	original_sheet = true })
 
 -- Tarots
-AltTexture({ key = 'rt_tarot', set = 'Tarot', path = 'default/Tarots.png', loc_txt = { name = 'Tarots' },original_sheet = true })
+AltTexture({ key = 'rt_tarot', set = 'Tarot', path = 'default/Tarots.png', loc_txt = { name = 'Tarots' },
+	original_sheet = true })
 
-AltTexture({ key = 'yt_tarot', set = 'Tarot', path = 'youtube/Tarots.png', loc_txt = { name = 'Tarots'}, original_sheet = true })
+AltTexture({ key = 'yt_tarot', set = 'Tarot', path = 'youtube/Tarots.png', loc_txt = { name = 'Tarots'}, 
+	original_sheet = true })
 
 -- Spectrals
 AltTexture({ key = 'rt_spectral', set = 'Spectral', path = 'default/Tarots.png', soul = 'default/Enhancers.png',
@@ -42,39 +38,53 @@ AltTexture({ key = 'yt_spectral', set = 'Spectral', path = 'youtube/Tarots.png',
 	loc_txt = {	name = 'Spectrals' }, original_sheet = true })
 
 -- Planets
-AltTexture({ key = 'rt_planet', set = 'Planet', path = 'default/Tarots.png', loc_txt = { name = 'Planets' }, original_sheet = true })
+AltTexture({ key = 'rt_planet', set = 'Planet', path = 'default/Tarots.png', loc_txt = { name = 'Planets' }, 
+	original_sheet = true })
 
-AltTexture({ key = 'yt_planet', set = 'Planet', path = 'youtube/Tarots.png', loc_txt = { name = 'Planets' }, original_sheet = true })
+AltTexture({ key = 'yt_planet', set = 'Planet', path = 'youtube/Tarots.png', loc_txt = { name = 'Planets' }, 
+	original_sheet = true })
 
 -- Enhanced
-AltTexture({ key = 'rt_enhanced', set = 'Enhanced', path = 'default/Enhancers.png', loc_txt = { name = 'Enhanced' }, original_sheet = true })
+AltTexture({ key = 'rt_enhanced', set = 'Enhanced', path = 'default/Enhancers.png', loc_txt = { name = 'Enhanced' }, 
+	original_sheet = true })
 
-AltTexture({ key = 'yt_enhanced', set = 'Enhanced', path = 'youtube/Enhancers.png', loc_txt = { name = 'Enhanced'}, original_sheet = true })
+AltTexture({ key = 'yt_enhanced', set = 'Enhanced', path = 'youtube/Enhancers.png', loc_txt = { name = 'Enhanced'},
+	original_sheet = true })
 
 -- Booster Packs
-AltTexture({ key = 'rt_booster', set = 'Booster', path = 'default/boosters.png', loc_txt = { name = 'Boosters' }, original_sheet = true })
+AltTexture({ key = 'rt_booster', set = 'Booster', path = 'default/boosters.png', loc_txt = { name = 'Boosters' },
+	original_sheet = true })
 
-AltTexture({ key = 'yt_booster', set = 'Booster', path = 'youtube/boosters.png', loc_txt = { name = 'Boosters' }, original_sheet = true })
+AltTexture({ key = 'yt_booster', set = 'Booster', path = 'youtube/boosters.png', loc_txt = { name = 'Boosters' },
+	original_sheet = true })
 
 -- Stakes
-AltTexture({ key = 'rt_stake', set = 'Stake', path = 'default/chips.png', loc_txt = { name = 'Stakes' }, original_sheet = true })
+AltTexture({ key = 'rt_stake', set = 'Stake', path = 'default/chips.png', loc_txt = { name = 'Stakes' },
+	original_sheet = true })
 
-AltTexture({ key = 'yt_stake', set = 'Stake', path = 'youtube/chips.png', loc_txt = { name = 'Stakes' }, original_sheet = true })
+AltTexture({ key = 'yt_stake', set = 'Stake', path = 'youtube/chips.png', loc_txt = { name = 'Stakes' },
+	original_sheet = true })
 
 -- Stickers
-AltTexture({ key = 'rt_sticker', set = 'Sticker', path = 'default/stickers.png', loc_txt = { name = 'Stickers' }, original_sheet = true })
+AltTexture({ key = 'rt_sticker', set = 'Sticker', path = 'default/stickers.png', loc_txt = { name = 'Stickers' }, 
+	original_sheet = true })
 
-AltTexture({ key = 'yt_sticker', set = 'Sticker', path = 'youtube/stickers.png', loc_txt = { name = 'Stickers' }, original_sheet = true })
+AltTexture({ key = 'yt_sticker', set = 'Sticker', path = 'youtube/stickers.png', loc_txt = { name = 'Stickers' },
+	original_sheet = true })
 
 -- Seals
-AltTexture({ key = 'rt_seal', set = 'Seal', path = 'default/enhancers.png', loc_txt = { name = 'Seals' }, original_sheet = true })
+AltTexture({ key = 'rt_seal', set = 'Seal', path = 'default/enhancers.png', loc_txt = { name = 'Seals' },
+	original_sheet = true })
 
-AltTexture({ key = 'yt_seal', set = 'Seal', path = 'youtube/enhancers.png', loc_txt = { name = 'Seals' }, original_sheet = true })
+AltTexture({ key = 'yt_seal', set = 'Seal', path = 'youtube/enhancers.png', loc_txt = { name = 'Seals' },
+	original_sheet = true })
 
 -- Vouchers
-AltTexture({ key = 'rt_voucher', set = 'Voucher', path = 'default/Vouchers.png', loc_txt = { name = 'Vouchers' }, original_sheet = true })
+AltTexture({ key = 'rt_voucher', set = 'Voucher', path = 'default/Vouchers.png', loc_txt = { name = 'Vouchers' },
+	original_sheet = true })
 
-AltTexture({ key = 'yt_voucher', set = 'Voucher', path = 'youtube/Vouchers.png', loc_txt = { name = 'Vouchers' }, original_sheet = true })
+AltTexture({ key = 'yt_voucher', set = 'Voucher', path = 'youtube/Vouchers.png', loc_txt = { name = 'Vouchers' },
+	original_sheet = true })
 
 -- Blind Chips
 --AltTexture({ key = 'rt_blind', set = 'Blind', frames = 21, path = 'default/BlindChips.png', loc_txt = {	name = 'Blinds' }, 
@@ -84,9 +94,11 @@ AltTexture({ key = 'yt_blind', set = 'Blind', frames = 21, path = 'youtube/Blind
 	original_sheet = true })
 
 -- Tags
--- AltTexture({ key = 'rt_tag', set = 'Tag', path = 'default/tags.png', loc_txt = { name = 'Tags' }, original_sheet = true })
+-- AltTexture({ key = 'rt_tag', set = 'Tag', path = 'default/tags.png', loc_txt = { name = 'Tags' },
+-- 	original_sheet = true })
 
-AltTexture({ key = 'yt_tag', set = 'Tag', path = 'youtube/tags.png', loc_txt = { name = 'Tags' }, original_sheet = true })
+AltTexture({ key = 'yt_tag', set = 'Tag', path = 'youtube/tags.png', loc_txt = { name = 'Tags' },
+	original_sheet = true })
 
 -- Malverk Texture Compiles
 TexturePack({
@@ -137,7 +149,7 @@ SMODS.Atlas{key = "balatro",
 	px = 333, py = 216, prefix_config = { key = false } 
 }
 	
---------------------DECKS--------------------
+-------------------- Full Decks --------------------
 
 -- BalaRTo - ladybugsheep --
 -- Hearts [8]
@@ -565,7 +577,7 @@ SMODS.DeckSkin {
 	},
 }
 
--- Collab Sets --
+-------------------- Collab Sets --------------------
 -- Luigi Casino Cards - Pinkycake -- ♥ [11]
 local atlas_LLC_H_lc = SMODS.Atlas {
 	key = "BalaRTo_skin_LLC",

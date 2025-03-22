@@ -4,81 +4,97 @@ return {
             b_abandoned={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_anaglyph={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_black={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_blue={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_challenge={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_checkered={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_erratic={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_ghost={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_green={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_magic={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_nebula={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_painted={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_plasma={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_red={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_yellow={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             b_zodiac={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -86,151 +102,181 @@ return {
             bl_arm={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_big={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_club={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_eye={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_final_acorn={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_final_bell={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_final_heart={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_final_leaf={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_final_vessel={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_fish={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_flint={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_goad={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_head={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_hook={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_house={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_manacle={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_mark={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_mouth={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_needle={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_ox={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_pillar={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_plant={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_psychic={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_serpent={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_small={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_tooth={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_wall={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_water={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_wheel={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             bl_window={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -238,31 +284,37 @@ return {
             e_base={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             e_foil={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             e_holo={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             e_negative={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             e_negative_consumable={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             e_polychrome={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -270,41 +322,49 @@ return {
             m_bonus={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             m_glass={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             m_gold={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             m_lucky={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             m_mult={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             m_steel={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             m_stone={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             m_wild={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -312,16 +372,19 @@ return {
             j_8_ball={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_abstract={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_acrobat={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -329,11 +392,13 @@ return {
             j_ancient={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_arrowhead={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -341,6 +406,7 @@ return {
             j_astronomer={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -348,26 +414,31 @@ return {
             j_banner={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_baron={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_baseball={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_blackboard={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_bloodstone={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -375,11 +446,13 @@ return {
             j_blue_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_blueprint={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -387,6 +460,7 @@ return {
             j_bootstraps={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -394,6 +468,7 @@ return {
             j_brainstorm={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -401,16 +476,19 @@ return {
             j_bull={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_burglar={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_burnt={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -418,11 +496,13 @@ return {
             j_business={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_caino={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -430,16 +510,19 @@ return {
             j_campfire={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_card_sharp={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_cartomancer={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -447,21 +530,25 @@ return {
             j_castle={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_cavendish={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_ceremonial={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_certificate={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -469,11 +556,13 @@ return {
             j_chaos={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_chicot={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -481,56 +570,67 @@ return {
             j_clever={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_cloud_9={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_constellation={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_crafty={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_crazy={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_credit_card={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_delayed_grat={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_devious={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_diet_cola={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_dna={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_drivers_license={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -538,16 +638,19 @@ return {
             j_droll={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_drunkard={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_duo={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -555,31 +658,37 @@ return {
             j_dusk={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_egg={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_erosion={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_even_steven={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_faceless={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_family={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -587,16 +696,19 @@ return {
             j_fibonacci={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_flash={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_flower_pot={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -604,21 +716,25 @@ return {
             j_fortune_teller={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_four_fingers={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_gift={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_glass={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -626,46 +742,55 @@ return {
             j_gluttenous_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_golden={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_greedy_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_green_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_gros_michel={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_hack={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_half={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_hallucination={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_hanging_chad={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -673,11 +798,13 @@ return {
             j_hiker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_hit_the_road={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -685,16 +812,19 @@ return {
             j_hologram={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_ice_cream={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_idol={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -702,6 +832,7 @@ return {
             j_invisible={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -709,61 +840,73 @@ return {
             j_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_jolly={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_juggler={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_loyalty_card={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_luchador={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_lucky_cat={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_lusty_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_mad={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_madness={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_mail={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_marble={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_matador={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -771,6 +914,7 @@ return {
             j_merry_andy={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -778,21 +922,25 @@ return {
             j_midas_mask={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_mime={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_misprint={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_mr_bones={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -800,21 +948,25 @@ return {
             j_mystic_summit={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_obelisk={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_odd_todd={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_onyx_agate={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -822,6 +974,7 @@ return {
             j_oops={
                 name="!  ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -829,6 +982,7 @@ return {
             j_order={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -836,11 +990,13 @@ return {
             j_pareidolia={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_perkeo={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -848,46 +1004,55 @@ return {
             j_photograph={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_popcorn={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_raised_fist={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_ramen={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_red_card={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_reserved_parking={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_ride_the_bus={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_riff_raff={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_ring_master={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -895,11 +1060,13 @@ return {
             j_rocket={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_rough_gem={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -907,11 +1074,13 @@ return {
             j_runner={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_satellite={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -919,21 +1088,25 @@ return {
             j_scary_face={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_scholar={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_seance={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_seeing_double={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -941,11 +1114,13 @@ return {
             j_selzer={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_shoot_the_moon={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -959,16 +1134,19 @@ return {
             j_sixth_sense={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_sly={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_smeared={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -976,11 +1154,13 @@ return {
             j_smiley={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_sock_and_buskin={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -988,36 +1168,43 @@ return {
             j_space={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_splash={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_square={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_steel_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_stencil={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_stone={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_stuntman={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1025,16 +1212,19 @@ return {
             j_supernova={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_superposition={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_swashbuckler={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1042,6 +1232,7 @@ return {
             j_throwback={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1049,6 +1240,7 @@ return {
             j_ticket={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1056,21 +1248,25 @@ return {
             j_to_the_moon={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_todo_list={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_trading={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_tribe={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1078,6 +1274,7 @@ return {
             j_triboulet={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1085,6 +1282,7 @@ return {
             j_trio={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1092,6 +1290,7 @@ return {
             j_troubadour={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1099,31 +1298,37 @@ return {
             j_trousers={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_turtle_bean={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_vagabond={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_vampire={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_walkie_talkie={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_wee={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1131,16 +1336,19 @@ return {
             j_wily={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_wrathful_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             j_yorick={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1148,6 +1356,7 @@ return {
             j_zany={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -1155,268 +1364,322 @@ return {
             black_sticker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             blue_seal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             blue_sticker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             card_chips={
                 text={
+                    " ",
                 },
             },
             card_extra_chips={
                 text={
+                    " ",
                 },
             },
             challenge_locked={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             debuffed_default={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             debuffed_playing_card={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             deck_locked_discover={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             deck_locked_stake={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             deck_locked_win={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             demo_locked={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             demo_shop_locked={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             eternal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             gold_seal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             gold_sticker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             green_sticker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             joker_locked_legendary={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             locked={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             orange_sticker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_arcana_jumbo={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_arcana_mega={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_arcana_normal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_buffoon_jumbo={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_buffoon_mega={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_buffoon_normal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_celestial_jumbo={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_celestial_mega={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_celestial_normal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_spectral_jumbo={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_spectral_mega={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_spectral_normal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_standard_jumbo={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_standard_mega={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             p_standard_normal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             perishable={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             pinned_left={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             playing_card={
                 text={
+                    " ",
                 },
             },
             purple_seal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             purple_sticker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             red_seal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             red_sticker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             remove_negative={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             rental={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             undiscovered_booster={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             undiscovered_edition={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             undiscovered_joker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             undiscovered_planet={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             undiscovered_spectral={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             undiscovered_tag={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             undiscovered_tarot={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             undiscovered_voucher={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             white_sticker={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             wip_locked={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -1424,61 +1687,73 @@ return {
             c_ceres={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_earth={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_eris={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_jupiter={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_mars={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_mercury={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_neptune={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_planet_x={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_pluto={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_saturn={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_uranus={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_venus={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -1486,91 +1761,109 @@ return {
             c_ankh={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_aura={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_black_hole={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_cryptid={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_deja_vu={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_ectoplasm={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_familiar={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_grim={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_hex={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_immolate={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_incantation={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_medium={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_ouija={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_sigil={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_soul={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_talisman={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_trance={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_wraith={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -1578,41 +1871,49 @@ return {
             stake_black={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             stake_blue={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             stake_gold={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             stake_green={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             stake_orange={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             stake_purple={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             stake_red={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             stake_white={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -1620,121 +1921,145 @@ return {
             tag_boss={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_buffoon={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_charm={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_coupon={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_d_six={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_double={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_economy={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_ethereal={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_foil={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_garbage={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_handy={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_holo={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_investment={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_juggle={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_meteor={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_negative={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_orbital={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_polychrome={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_rare={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_skip={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_standard={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_top_up={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_uncommon={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             tag_voucher={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -1742,111 +2067,133 @@ return {
             c_chariot={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_death={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_devil={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_emperor={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_empress={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_fool={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_hanged_man={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_heirophant={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_hermit={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_high_priestess={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_judgement={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_justice={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_lovers={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_magician={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_moon={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_star={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_strength={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_sun={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_temperance={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_tower={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_wheel_of_fortune={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             c_world={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
@@ -1854,6 +2201,7 @@ return {
             v_antimatter={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1861,26 +2209,31 @@ return {
             v_blank={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_clearance_sale={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_crystal_ball={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_directors_cut={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_glow_up={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1888,21 +2241,25 @@ return {
             v_grabber={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_hieroglyph={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_hone={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_illusion={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1910,6 +2267,7 @@ return {
             v_liquidation={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1917,11 +2275,13 @@ return {
             v_magic_trick={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_money_tree={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1929,6 +2289,7 @@ return {
             v_nacho_tong={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1936,6 +2297,7 @@ return {
             v_observatory={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1943,6 +2305,7 @@ return {
             v_omen_globe={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1950,11 +2313,13 @@ return {
             v_overstock_norm={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_overstock_plus={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1962,11 +2327,13 @@ return {
             v_paint_brush={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_palette={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1974,6 +2341,7 @@ return {
             v_petroglyph={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1981,11 +2349,13 @@ return {
             v_planet_merchant={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_planet_tycoon={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -1993,6 +2363,7 @@ return {
             v_recyclomancy={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -2000,6 +2371,7 @@ return {
             v_reroll_glut={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -2007,11 +2379,13 @@ return {
             v_reroll_surplus={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_retcon={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -2019,16 +2393,19 @@ return {
             v_seed_money={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_tarot_merchant={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_tarot_tycoon={
                 name=" ",
                 text={
+                    " ",
                 },
                 unlock={
                 },
@@ -2036,11 +2413,13 @@ return {
             v_telescope={
                 name=" ",
                 text={
+                    " ",
                 },
             },
             v_wasteful={
                 name=" ",
                 text={
+                    " ",
                 },
             },
         },
