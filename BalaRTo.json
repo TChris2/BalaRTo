@@ -1,0 +1,14 @@
+{
+	"id": "BalaRTo",
+	"name": "RTGame BalaRTo Pack",
+	"author": ["Trainerchris"],
+	"description": "Adds cosmetic changes such as texture swaps to existing textures and new deck skins. New languages includes: Credits, Credits [W/Descs], Youtube, and [YOUTUBE].",
+	"prefix": "BalaRTo",
+	"badge_colour": "d9d2e9",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)",
+		"malverk"
+	],
+	"main_file": "BalaRTo.lua",
+	"version": "1.0.0"
+}
