@@ -8,27 +8,27 @@ https://docs.google.com/spreadsheets/d/16jH5rsLFYApgOJ-LN18YD9vDBrdIYyaEtXjF-zzH
 
 **Youtube Pack:** Trainerchris  
 
-## Full Sets
+## Full Sets:
 BalaRTo: ladybugsheep  
 Kai’s Kards: KayKay!  
 
-## Face Card Sets
-### Hearts - ♥
+## Face Card Sets:
+### Hearts - ♥:
 Luigi Casino Cards: Pinkycake  
 Rhythm Heaven: KillstealWolf  
 
-### Clubs - ♣
+### Clubs - ♣:
 Friends of RT: LadybugSheep & ARealFlame  
 Greenscreen: Trainerchris  
 
-### Diamonds - ◆
+### Diamonds - ◆:
 Fallout New Vegas: Pinkycake  
 
-### Spades - ♠
+### Spades - ♠:
 Dan Trio: Snowflake  
 Cars: Pinkycake  
 
-## Jokers
+## Jokers:
 - thegoldenwizard
 - LadybugSheep
 - CrispyShroom
@@ -57,7 +57,7 @@ Cars: Pinkycake
 - CrispyShroom
 - Snowflake
 
-## Decks
+## Decks:
 - LadybugSheep
 - KayKay
 - PlanetLaura
@@ -66,7 +66,7 @@ Cars: Pinkycake
 - Fen
 - Matan
 
-## Tarot Cards
+## Tarot Cards:
 - LadybugSheep
 - Matan
 - Crispy
@@ -82,7 +82,7 @@ Cars: Pinkycake
 - SilencedPal
 - TheWylloweTree
 
-## Planet Cards
+## Planet Cards:
 - Crispy
 - Fen
 - Matan
@@ -93,7 +93,7 @@ Cars: Pinkycake
 - Katuen
 - L'egg
 
-## Spectral Cards
+## Spectral Cards:
 - kazack v3
 - Matan
 - Kayden
@@ -105,13 +105,13 @@ Cars: Pinkycake
 - SierraStorms
 - Crispy
 
-## Enhancements
+## Enhancements:
 - Crispy
 - Cassedila
 - Fen
 - Maland2016
 
-## Booster Packs
+## Booster Packs:
 - kazack v3
 - Matan
 - Leemcgeee
@@ -120,7 +120,7 @@ Cars: Pinkycake
 - Fen
 - SierraStorms
 
-## Vouchers
+## Vouchers:
 - Crispy
 - SierraStorms
 - Volty & L'egg
@@ -137,11 +137,11 @@ Cars: Pinkycake
 
 **Stickers: Volty**  
 
-## Game Logo  
-KayKay! 
-CrispyShroom 
-Miik
-Matan
+## Game Logo:  
+KayKay!  
+CrispyShroom  
+Miik  
+Matan  
 
 **Start Screen Colors:** Miik  
 
