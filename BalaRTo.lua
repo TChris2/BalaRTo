@@ -104,25 +104,24 @@ AltTexture({ key = 'yt_tag', set = 'Tag', path = 'youtube/tags.png', loc_txt = {
 TexturePack({
 	key = 'balarto_texture',
 	textures = {
-		'BalaRTo_rt_joker', 'BalaRTo_rt_back', 'BalaRTo_rt_tarot', 'BalaRTo_rt_spectral',
-		'BalaRTo_rt_planet', 'BalaRTo_rt_enhanced', 'BalaRTo_rt_booster', 'BalaRTo_rt_stake',
-		"BalaRTo_rt_sticker", "BalaRTo_rt_seal", "BalaRTo_rt_voucher"
+		'BalaRTo_rt_joker', 'BalaRTo_rt_back', 'BalaRTo_rt_tarot', 'BalaRTo_rt_spectral', 'BalaRTo_rt_planet', 'BalaRTo_rt_enhanced', 'BalaRTo_rt_booster',
+		'BalaRTo_rt_stake', 'BalaRTo_rt_sticker', 'BalaRTo_rt_seal', 'BalaRTo_rt_voucher',
 	},
 	loc_txt = {
-	  name = 'RTGame BalaRTo Pack'
+	  name = 'RTGame BalaRTo Pack',
+	  text = {''}
 	}
 })
 
 TexturePack({
 	key = 'youtube_texture',
 	textures = {
-		'BalaRTo_yt_joker', 'BalaRTo_yt_back', 'BalaRTo_yt_tarot', 'BalaRTo_yt_spectral',
-		'BalaRTo_yt_planet', 'BalaRTo_yt_enhanced', 'BalaRTo_yt_booster', 'BalaRTo_yt_stake',
-		"BalaRTo_yt_sticker", "BalaRTo_yt_seal", "BalaRTo_yt_voucher", "BalaRTo_yt_blind",
-		"BalaRTo_yt_tag"
+		'BalaRTo_yt_joker', 'BalaRTo_yt_back', 'BalaRTo_yt_tarot', 'BalaRTo_yt_spectral', 'BalaRTo_yt_planet', 'BalaRTo_yt_enhanced', 'BalaRTo_yt_booster',
+		'BalaRTo_yt_booster', 'BalaRTo_yt_stake', 'BalaRTo_yt_sticker', 'BalaRTo_yt_seal', 'BalaRTo_yt_voucher', 'BalaRTo_yt_blind', 'BalaRTo_yt_tag',
 	},
 	loc_txt = {
-	  name = 'YOUTUBE'
+	  name = 'Youtube Pack',
+	  text = {'Replaces Textures With Youtube'}
 	}
 })
 
