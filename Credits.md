@@ -3,10 +3,10 @@
 For A Detailed Credit List Check Out   
 https://docs.google.com/spreadsheets/d/16jH5rsLFYApgOJ-LN18YD9vDBrdIYyaEtXjF-zzHZ3A/edit?usp=sharing  
 
-**Organizer:** Trainerchris  
-**Sub-Organizers:** Sage  
+#### Organizer: Trainerchris  
+#### Sub-Organizers: Sage  
 
-**Youtube Pack:** Trainerchris  
+#### Youtube Pack: Trainerchris  
 
 ## Full Sets:
 BalaRTo: ladybugsheep  
@@ -133,18 +133,18 @@ Cars: Pinkycake
 - Matan
 - Fen
 
-**Stakes: Volty**  
+#### Stakes: Volty
 
-**Stickers: Volty**  
+#### Stickers: Volty
 
 ## Game Logo:  
-KayKay!  
-CrispyShroom  
-Miik  
-Matan  
+- KayKay!  
+- CrispyShroom  
+- Miik  
+- Matan  
 
-**Start Screen Colors:** Miik  
+#### Start Screen Colors: Miik  
 
-**Seals:** Mr_Oinky  
+#### Seals: Mr_Oinky  
 
-**Additional Coding:** Mr_Oinky  
+#### Additional Coding: Mr_Oinky  
