@@ -15,4 +15,5 @@ An additional mod required to run this mod is Malverk https://github.com/Eremel/
 
 ## Known Issues 
 When changing languages some of the text of deck descriptions do not properly update, this can be fixed by restarting the game, idk why but its an issue with Malverk for some reason and I couldn't figure out how to fix it 🤷‍♂️.
+To play this mod you have to have pixel art smoothing enabled in the settings as a 1x version of the mod's assets do not exist in this version
 
