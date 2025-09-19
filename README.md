@@ -8,7 +8,7 @@ An additional mod required to run this mod is Malverk https://github.com/Eremel/
 
 ## Changes
 ### 1.1:
-- Fixed bug which caused collab deck skins to replace all the cards of a suit instead of just that suits joker, king, and queen.
+- Fixed bug which caused collab deck skins to replace all the cards of a suit instead of just that suit's joker, king, and queen.
 
 ### 1.0:
 - Ports existing content over to a Steammodded compatible version.
