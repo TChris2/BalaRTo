@@ -442,7 +442,7 @@ SMODS.DeckSkin {
 	palettes = {
 		{
 			key = 'lc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_LLC_H_lc.key,
 			pos_style = 'collab',
@@ -452,7 +452,7 @@ SMODS.DeckSkin {
 		},
 		{
 			key = 'hc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_LLC_H_lc.key,
 			pos_style = 'collab',
@@ -479,7 +479,7 @@ SMODS.DeckSkin {
 	palettes = {
 		{
 			key = 'lc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_RH_H_lc.key,
 			pos_style = 'collab',
@@ -489,7 +489,7 @@ SMODS.DeckSkin {
 		},
 		{
 			key = 'hc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_RH_H_lc.key,
 			pos_style = 'collab',
@@ -516,7 +516,7 @@ SMODS.DeckSkin {
 	palettes = {
 		{
 			key = 'lc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_FoRT_H_lc.key,
 			pos_style = 'collab',
@@ -526,7 +526,7 @@ SMODS.DeckSkin {
 		},
 		{
 			key = 'hc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_FoRT_H_lc.key,
 			pos_style = 'collab',
@@ -553,7 +553,7 @@ SMODS.DeckSkin {
 	palettes = {
 		{
 			key = 'lc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_GS_H_lc.key,
 			pos_style = 'collab',
@@ -563,7 +563,7 @@ SMODS.DeckSkin {
 		},
 		{
 			key = 'hc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_GS_H_lc.key,
 			pos_style = 'collab',
@@ -590,7 +590,7 @@ SMODS.DeckSkin {
 	palettes = {
 		{
 			key = 'lc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_FNV_H_lc.key,
 			pos_style = 'collab',
@@ -600,7 +600,7 @@ SMODS.DeckSkin {
 		},
 		{
 			key = 'hc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_FNV_H_lc.key,
 			pos_style = 'collab',
@@ -627,7 +627,7 @@ SMODS.DeckSkin {
 	palettes = {
 		{
 			key = 'lc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_DT_H_lc.key,
 			pos_style = 'collab',
@@ -637,7 +637,7 @@ SMODS.DeckSkin {
 		},
 		{
 			key = 'hc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_DT_H_lc.key,
 			pos_style = 'collab',
@@ -664,7 +664,7 @@ SMODS.DeckSkin {
 	palettes = {
 		{
 			key = 'lc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_C_H_lc.key,
 			pos_style = 'collab',
@@ -674,7 +674,7 @@ SMODS.DeckSkin {
 		},
 		{
 			key = 'hc',
-			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+			ranks = {'Jack', 'Queen', "King"},
 			display_ranks = {"King", "Queen", "Jack"},
 			atlas = atlas_C_H_lc.key,
 			pos_style = 'collab',
