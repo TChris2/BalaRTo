@@ -1,4 +1,5 @@
 # BalaRTo
+An RTGame themed texture pack mod for the game Balatro
 
 ## Installation
 To run this you will need to install both Steamodded & Lovely  
